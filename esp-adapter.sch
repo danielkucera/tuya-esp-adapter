@@ -54,9 +54,9 @@ Text GLabel 6000 2500 1    50   Input ~ 0
 3V3
 Text GLabel 6000 4000 3    50   Input ~ 0
 GND
-Text GLabel 6600 2800 2    50   Input ~ 0
-TXD0
 Text GLabel 6600 3000 2    50   Input ~ 0
+TXD0
+Text GLabel 6600 2800 2    50   Input ~ 0
 RXD0
 Text GLabel 6600 3200 2    50   Input ~ 0
 IO5
