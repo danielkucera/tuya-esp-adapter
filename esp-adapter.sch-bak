@@ -124,7 +124,7 @@ U 1 1 60E850A3
 P 7400 2800
 F 0 "J3" H 7372 2682 50  0000 R CNN
 F 1 "Conn_01x02_Male" H 7372 2773 50  0000 R CNN
-F 2 "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical" H 7400 2800 50  0001 C CNN
+F 2 "Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical" H 7400 2800 50  0001 C CNN
 F 3 "~" H 7400 2800 50  0001 C CNN
 	1    7400 2800
 	-1   0    0    1   
